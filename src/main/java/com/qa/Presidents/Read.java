@@ -27,9 +27,6 @@ public class Read {
 			deathDate = parts[3];
 			deathPlace = parts[4];
 
-			// for(String s : parts) {
-			// System.out.println(s);
-			// }
 			p.name = name;
 			p.birthDate = birthDate;
 			p.birthPlace = birthPlace;
